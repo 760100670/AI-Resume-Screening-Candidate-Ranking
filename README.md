@@ -31,6 +31,15 @@ Below is a screenshot of the working application showing resume upload, job desc
 
 Screenshot:
 
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Resume Upload
+![Resume upload](screenshots/ResumeUpload.png)
+
+### Result
+![Result](screenshots/result.png)
+
 
 ## Tech Stack
 
