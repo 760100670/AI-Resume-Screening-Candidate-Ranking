@@ -73,8 +73,6 @@ AI_Resume_Screener/
   - index.html
 - static/
   - style.css
-- resume
-  - sample
 - readme.md
 
 
